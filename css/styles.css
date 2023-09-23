@@ -65,7 +65,7 @@ body {
 }
 .address-list-item {
 }
-.address-link {
+.address-menu-link {
   color: #434455;
   font-size: 16px;
   font-weight: 400;
@@ -86,7 +86,7 @@ body {
   background-color: #2e2f42;
 }
 .hero-title {
-  color: #fff;
+  color: #ffffff;
   text-align: center;
   font-size: 56px;
   font-weight: 700;
@@ -94,7 +94,7 @@ body {
   letter-spacing: 0.02em;
 }
 .hero-btn {
-  color: #fff;
+  color: #ffffff;
   font-family: "Roboto", sans-serif;
   font-size: 16px;
   font-weight: 500;
@@ -105,7 +105,7 @@ body {
 
 .hero-btn:hover,
 .hero-btn:focus {
-  color: #404bbf;
+  background-color: #404bbf;
   cursor: pointer;
 }
 /** ================FEATURES==================== */
@@ -163,6 +163,7 @@ body {
   text-transform: capitalize;
 }
 .team-hero {
+  background-color: #ffffff;
 }
 .team-hero-name {
   background-color: #ffffff;
@@ -225,7 +226,7 @@ body {
 }
 .footer-title {
   color: #4d5ae5;
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
