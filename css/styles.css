@@ -27,6 +27,7 @@ body {
   color: #2e2f42;
 }
 .header-menu-list {
+  list-style-type: none;
   font-size: 16px;
   font-weight: 500;
   line-height: 24px;
@@ -62,6 +63,7 @@ body {
   letter-spacing: 0.02em;
 }
 .address-list {
+  list-style-type: none;
 }
 .address-list-item {
 }
@@ -119,6 +121,7 @@ body {
   overflow: hidden;
 }
 .features-list {
+  list-style-type: none;
 }
 .features-item {
 }
@@ -145,6 +148,9 @@ body {
   font-weight: 700;
   line-height: 1.111;
   letter-spacing: 0.02em;
+}
+.team-list {
+  list-style-type: none;
 }
 .team-title {
   color: #2e2f42;
@@ -195,6 +201,7 @@ body {
   text-transform: capitalize;
 }
 .portfolio-title-list {
+  list-style-type: none;
 }
 .portfolio-title-item {
 }
